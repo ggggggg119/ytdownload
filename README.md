@@ -1,4 +1,4 @@
-# ytdownload
+# YouTube downloader
 A simple Python application for downloading YouTube videos with a graphical user interface built using customtkinter and yt-dlp.
 
 <h2>Requirements</h2>
